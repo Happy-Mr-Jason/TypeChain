@@ -1,3 +1,3 @@
-# TypeScript
+# TypeChain
 
 with Nomadcoders
